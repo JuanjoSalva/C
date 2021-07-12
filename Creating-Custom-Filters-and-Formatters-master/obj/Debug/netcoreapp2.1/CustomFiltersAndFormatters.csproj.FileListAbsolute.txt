@@ -1,0 +1,17 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\appsettings.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorAssemblyInfo.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorAssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorTargetAssemblyInfo.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.genruntimeconfig.cache
