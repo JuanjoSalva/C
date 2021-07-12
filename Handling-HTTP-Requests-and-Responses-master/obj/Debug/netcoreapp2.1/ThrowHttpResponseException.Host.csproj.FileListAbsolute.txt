@@ -1,0 +1,17 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorAssemblyInfo.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorAssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorTargetAssemblyInfo.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.genruntimeconfig.cache
