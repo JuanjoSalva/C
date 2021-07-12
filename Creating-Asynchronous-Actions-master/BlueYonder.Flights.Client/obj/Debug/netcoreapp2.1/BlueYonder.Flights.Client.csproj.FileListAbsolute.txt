@@ -1,0 +1,12 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.genruntimeconfig.cache

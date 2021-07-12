@@ -1,0 +1,9 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Flights.DAL.pdb
