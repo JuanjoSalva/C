@@ -1,0 +1,9 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.pdb
