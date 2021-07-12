@@ -1,0 +1,12 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.genruntimeconfig.cache
