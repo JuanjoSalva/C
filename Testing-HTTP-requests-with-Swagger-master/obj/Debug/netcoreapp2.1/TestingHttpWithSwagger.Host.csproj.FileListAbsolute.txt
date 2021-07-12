@@ -1,0 +1,17 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.RazorAssemblyInfo.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.RazorAssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.RazorTargetAssemblyInfo.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.genruntimeconfig.cache
