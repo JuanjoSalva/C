@@ -1,0 +1,12 @@
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.deps.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\bin\Debug\netcoreapp2.1\CRUD.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.dll
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.pdb
+E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\CRUD\Starter\obj\Debug\netcoreapp2.1\CRUD.genruntimeconfig.cache
