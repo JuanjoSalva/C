@@ -1,0 +1,6 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\243\243\bin\Debug\243.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\243\243\bin\Debug\243.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\243\243\bin\Debug\243.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\243\243\obj\Debug\243.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\243\243\obj\Debug\243.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\243\243\obj\Debug\243.pdb

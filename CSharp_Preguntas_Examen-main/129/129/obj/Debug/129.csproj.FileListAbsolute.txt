@@ -1,0 +1,6 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\129\129\obj\Debug\129.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\129\129\bin\Debug\129.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\129\129\bin\Debug\129.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\129\129\bin\Debug\129.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\129\129\obj\Debug\129.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\129\129\obj\Debug\129.pdb

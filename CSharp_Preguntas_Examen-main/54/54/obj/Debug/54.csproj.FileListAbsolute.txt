@@ -1,0 +1,6 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\54\54\obj\Debug\54.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\54\54\bin\Debug\54.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\54\54\bin\Debug\54.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\54\54\bin\Debug\54.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\54\54\obj\Debug\54.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\54\54\obj\Debug\54.pdb
