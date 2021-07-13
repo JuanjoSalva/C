@@ -1,0 +1,7 @@
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\bin\Debug\Q107.exe.config
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\bin\Debug\Q107.exe
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\bin\Debug\Q107.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\obj\Debug\Q107.csprojAssemblyReference.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\obj\Debug\Q107.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\obj\Debug\Q107.exe
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q107\obj\Debug\Q107.pdb

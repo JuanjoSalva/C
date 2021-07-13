@@ -1,0 +1,25 @@
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.exe
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.deps.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.runtimeconfig.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.runtimeconfig.dev.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.AssemblyInfoInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.AssemblyInfo.cs
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.genruntimeconfig.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\bin\Debug\netcoreapp3.1\Q281.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q281\obj\Debug\netcoreapp3.1\Q281.genruntimeconfig.cache

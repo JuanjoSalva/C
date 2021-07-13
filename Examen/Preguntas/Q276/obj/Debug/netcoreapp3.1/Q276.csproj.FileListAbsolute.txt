@@ -1,0 +1,13 @@
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\bin\Debug\netcoreapp3.1\Q276.exe
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\bin\Debug\netcoreapp3.1\Q276.deps.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\bin\Debug\netcoreapp3.1\Q276.runtimeconfig.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\bin\Debug\netcoreapp3.1\Q276.runtimeconfig.dev.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\bin\Debug\netcoreapp3.1\Q276.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\bin\Debug\netcoreapp3.1\Q276.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.csprojAssemblyReference.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.AssemblyInfoInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.AssemblyInfo.cs
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q276\obj\Debug\netcoreapp3.1\Q276.genruntimeconfig.cache

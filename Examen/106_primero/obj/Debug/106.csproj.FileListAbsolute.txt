@@ -1,0 +1,7 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\bin\Debug\106.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\bin\Debug\106.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\bin\Debug\106.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\obj\Debug\106.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\obj\Debug\106.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\obj\Debug\106.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\106\obj\Debug\106.pdb

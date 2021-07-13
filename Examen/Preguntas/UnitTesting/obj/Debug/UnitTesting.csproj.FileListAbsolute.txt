@@ -1,0 +1,17 @@
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\UnitTesting.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Q107.exe
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Q107.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Q107.exe.config
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\obj\Debug\UnitTesting.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\UnitTesting\obj\Debug\UnitTesting.pdb

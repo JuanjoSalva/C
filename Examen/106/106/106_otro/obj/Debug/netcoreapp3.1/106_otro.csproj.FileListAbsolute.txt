@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\bin\Debug\netcoreapp3.1\106_otro.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\bin\Debug\netcoreapp3.1\106_otro.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\bin\Debug\netcoreapp3.1\106_otro.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\bin\Debug\netcoreapp3.1\106_otro.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\bin\Debug\netcoreapp3.1\106_otro.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\bin\Debug\netcoreapp3.1\106_otro.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\106\otro\106_otro\obj\Debug\netcoreapp3.1\106_otro.genruntimeconfig.cache

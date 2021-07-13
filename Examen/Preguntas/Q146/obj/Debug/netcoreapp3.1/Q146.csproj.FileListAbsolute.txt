@@ -1,0 +1,30 @@
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.exe
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.deps.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.runtimeconfig.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.runtimeconfig.dev.json
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.csprojAssemblyReference.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.AssemblyInfoInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.AssemblyInfo.cs
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.csproj.CopyComplete
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.dll
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.pdb
+D:\BMV\20483C\Preguntas de Examen\JJSalvador\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.genruntimeconfig.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\Q146.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.csproj.CopyComplete
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\Preguntas\Q146\obj\Debug\netcoreapp3.1\Q146.genruntimeconfig.cache

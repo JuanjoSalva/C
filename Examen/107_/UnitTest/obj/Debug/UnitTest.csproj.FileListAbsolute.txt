@@ -1,0 +1,17 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\UnitTest.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\UnitTest.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\107.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\107.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\107.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\obj\Debug\UnitTest.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Examen\Code\codigo\107_ok\UnitTest\obj\Debug\UnitTest.pdb
