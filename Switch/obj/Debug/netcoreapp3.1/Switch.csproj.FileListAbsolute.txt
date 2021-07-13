@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache

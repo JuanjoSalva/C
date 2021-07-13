@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\bin\Debug\netcoreapp3.1\06Estrucruras.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\bin\Debug\netcoreapp3.1\06Estrucruras.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\bin\Debug\netcoreapp3.1\06Estrucruras.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\bin\Debug\netcoreapp3.1\06Estrucruras.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\bin\Debug\netcoreapp3.1\06Estrucruras.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\bin\Debug\netcoreapp3.1\06Estrucruras.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\06Estrucruras\obj\Debug\netcoreapp3.1\06Estrucruras.genruntimeconfig.cache

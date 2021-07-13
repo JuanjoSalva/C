@@ -1,0 +1,20 @@
+﻿<Window x:Class="DesignView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesignView"
+        mc:Ignorable="d"
+        Title="Order Your Coffee Here" Height="492.604" Width="842.604">
+    <Grid Margin="-4,29,4,-29">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Button x:Name="btnGetCoffee" Content="Make Me a Coffee!" HorizontalAlignment="Center" VerticalAlignment="Top" Height="23" Click="btnGetCoffee_Click" Margin="12,-23,721,0" Width="auto"/>
+        <Label x:Name="lblResult" Content="" HorizontalAlignment="Center" Grid.RowSpan="2" VerticalAlignment="Top" Height="34" Width="203" Margin="313,26,321,0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVngbuiusUTL0RQdVtm97nCY3s+Y+N32JfrGOikHk0VMrB8vAH1OZIp4BlDC/wkyoWguGbrMTioiY6/uua68MQ==",
+  "success": true,
+  "projectFilePath": "E:\\JUANJO\\CURSO2020\\MODULO2_CSHARP\\LINQ\\src\\Try101LinqSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.19317.1\\system.commandline.dragonfruit.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.commandline.experimental\\0.3.0-alpha.19317.1\\system.commandline.experimental.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.19317.1\\system.commandline.rendering.0.3.0-alpha.19317.1.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

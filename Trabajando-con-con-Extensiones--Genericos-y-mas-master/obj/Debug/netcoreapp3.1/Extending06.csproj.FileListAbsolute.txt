@@ -1,0 +1,26 @@
+D:\BMV\20483C\Mod 5-8\Extending06\bin\Debug\netcoreapp3.1\Extending06.exe
+D:\BMV\20483C\Mod 5-8\Extending06\bin\Debug\netcoreapp3.1\Extending06.deps.json
+D:\BMV\20483C\Mod 5-8\Extending06\bin\Debug\netcoreapp3.1\Extending06.runtimeconfig.json
+D:\BMV\20483C\Mod 5-8\Extending06\bin\Debug\netcoreapp3.1\Extending06.runtimeconfig.dev.json
+D:\BMV\20483C\Mod 5-8\Extending06\bin\Debug\netcoreapp3.1\Extending06.dll
+D:\BMV\20483C\Mod 5-8\Extending06\bin\Debug\netcoreapp3.1\Extending06.pdb
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.csprojAssemblyReference.cache
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.AssemblyInfoInputs.cache
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.AssemblyInfo.cs
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.dll
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.pdb
+D:\BMV\20483C\Mod 5-8\Extending06\obj\Debug\netcoreapp3.1\Extending06.genruntimeconfig.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\bin\Debug\netcoreapp3.1\Extending06.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\bin\Debug\netcoreapp3.1\Extending06.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\bin\Debug\netcoreapp3.1\Extending06.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\bin\Debug\netcoreapp3.1\Extending06.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\bin\Debug\netcoreapp3.1\Extending06.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\bin\Debug\netcoreapp3.1\Extending06.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-con-con-Extensiones--Genericos-y-mas-master\obj\Debug\netcoreapp3.1\Extending06.genruntimeconfig.cache

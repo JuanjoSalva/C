@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\bin\Debug\netcoreapp3.1\ocho.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\bin\Debug\netcoreapp3.1\ocho.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\bin\Debug\netcoreapp3.1\ocho.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\bin\Debug\netcoreapp3.1\ocho.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\bin\Debug\netcoreapp3.1\ocho.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\bin\Debug\netcoreapp3.1\ocho.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\ocho\obj\Debug\netcoreapp3.1\ocho.genruntimeconfig.cache

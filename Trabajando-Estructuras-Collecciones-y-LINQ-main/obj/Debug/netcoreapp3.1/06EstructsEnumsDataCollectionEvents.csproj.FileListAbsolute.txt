@@ -1,0 +1,26 @@
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.exe
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.deps.json
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.runtimeconfig.json
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.runtimeconfig.dev.json
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.dll
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.pdb
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.csprojAssemblyReference.cache
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.AssemblyInfoInputs.cache
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.AssemblyInfo.cs
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.dll
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.pdb
+D:\BMV\20483C\Mod 1-4\06EstructsEnumsDataCollectionEvents\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.genruntimeconfig.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\bin\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Trabajando-Estructuras-Collecciones-y-LINQ-main\obj\Debug\netcoreapp3.1\06EstructsEnumsDataCollectionEvents.genruntimeconfig.cache

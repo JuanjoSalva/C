@@ -1,0 +1,12 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EFNorthwind.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EFNorthwind.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EFNorthwind.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EntityFramework.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EntityFramework.xml
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\obj\Debug\EFNorthwind.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\obj\Debug\EFNorthwind.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\obj\Debug\EFNorthwind.csproj.CopyComplete
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\obj\Debug\EFNorthwind.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\DataAccess\EFNorthwind\obj\Debug\EFNorthwind.pdb

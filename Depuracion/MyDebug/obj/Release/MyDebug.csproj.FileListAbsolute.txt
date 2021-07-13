@@ -1,0 +1,6 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Depuracion\MyDebug\bin\Release\MyDebug.exe.config
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Depuracion\MyDebug\bin\Release\MyDebug.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Depuracion\MyDebug\bin\Release\MyDebug.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Depuracion\MyDebug\obj\Release\MyDebug.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Depuracion\MyDebug\obj\Release\MyDebug.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Depuracion\MyDebug\obj\Release\MyDebug.pdb

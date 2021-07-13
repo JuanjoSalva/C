@@ -1,6 +1,0 @@
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod08\DemoFiles\Mod8Demo2Serilog\Mod8Demo2SerilogStarter\obj\Debug\netcoreapp2.1\Mod8Demo2SerilogStarter.csprojAssemblyReference.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod08\DemoFiles\Mod8Demo2Serilog\Mod8Demo2SerilogStarter\obj\Debug\netcoreapp2.1\Mod8Demo2SerilogStarter.AssemblyInfoInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod08\DemoFiles\Mod8Demo2Serilog\Mod8Demo2SerilogStarter\obj\Debug\netcoreapp2.1\Mod8Demo2SerilogStarter.AssemblyInfo.cs
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod08\DemoFiles\Mod8Demo2Serilog\Mod8Demo2SerilogStarter\obj\Debug\netcoreapp2.1\Mod8Demo2SerilogStarter.csproj.CoreCompileInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod08\DemoFiles\Mod8Demo2Serilog\Mod8Demo2SerilogStarter\obj\Debug\netcoreapp2.1\Mod8Demo2SerilogStarter.RazorAssemblyInfo.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod08\DemoFiles\Mod8Demo2Serilog\Mod8Demo2SerilogStarter\obj\Debug\netcoreapp2.1\Mod8Demo2SerilogStarter.RazorAssemblyInfo.cs

@@ -1,9 +1,0 @@
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.deps.json
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.dll
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\bin\Debug\netstandard2.0\Sqlite.Dal.pdb
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.csprojAssemblyReference.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.AssemblyInfoInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.AssemblyInfo.cs
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.csproj.CoreCompileInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.dll
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\SQLite\Starter\Sqlite.Dal\obj\Debug\netstandard2.0\Sqlite.Dal.pdb

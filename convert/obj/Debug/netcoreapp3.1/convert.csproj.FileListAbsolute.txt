@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\bin\Debug\netcoreapp3.1\convert.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\bin\Debug\netcoreapp3.1\convert.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\bin\Debug\netcoreapp3.1\convert.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\bin\Debug\netcoreapp3.1\convert.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\bin\Debug\netcoreapp3.1\convert.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\bin\Debug\netcoreapp3.1\convert.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\convert\obj\Debug\netcoreapp3.1\convert.genruntimeconfig.cache

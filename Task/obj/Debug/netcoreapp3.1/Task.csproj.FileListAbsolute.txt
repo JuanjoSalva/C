@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\bin\Debug\netcoreapp3.1\Task.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\bin\Debug\netcoreapp3.1\Task.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\bin\Debug\netcoreapp3.1\Task.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache

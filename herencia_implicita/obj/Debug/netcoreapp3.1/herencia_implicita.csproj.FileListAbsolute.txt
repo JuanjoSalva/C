@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\bin\Debug\netcoreapp3.1\herencia_implicita.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\bin\Debug\netcoreapp3.1\herencia_implicita.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\bin\Debug\netcoreapp3.1\herencia_implicita.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\bin\Debug\netcoreapp3.1\herencia_implicita.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\bin\Debug\netcoreapp3.1\herencia_implicita.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\bin\Debug\netcoreapp3.1\herencia_implicita.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\herencia_implicita\obj\Debug\netcoreapp3.1\herencia_implicita.genruntimeconfig.cache

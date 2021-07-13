@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "blogging",
+            "database": "${workspaceFolder:EFGetStarted}/blogging.db"
+        }
+    ]
+}

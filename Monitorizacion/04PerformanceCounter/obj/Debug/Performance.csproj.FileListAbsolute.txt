@@ -1,0 +1,7 @@
+C:\Users\Billy Vanegas\source\repos\Performance\bin\Debug\Performance.exe.config
+C:\Users\Billy Vanegas\source\repos\Performance\bin\Debug\Performance.exe
+C:\Users\Billy Vanegas\source\repos\Performance\bin\Debug\Performance.pdb
+C:\Users\Billy Vanegas\source\repos\Performance\obj\Debug\Performance.csprojAssemblyReference.cache
+C:\Users\Billy Vanegas\source\repos\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+C:\Users\Billy Vanegas\source\repos\Performance\obj\Debug\Performance.exe
+C:\Users\Billy Vanegas\source\repos\Performance\obj\Debug\Performance.pdb

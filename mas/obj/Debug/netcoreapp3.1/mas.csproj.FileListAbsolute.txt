@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\bin\Debug\netcoreapp3.1\mas.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\bin\Debug\netcoreapp3.1\mas.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\bin\Debug\netcoreapp3.1\mas.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\bin\Debug\netcoreapp3.1\mas.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\bin\Debug\netcoreapp3.1\mas.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\bin\Debug\netcoreapp3.1\mas.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\mas\obj\Debug\netcoreapp3.1\mas.genruntimeconfig.cache

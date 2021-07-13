@@ -1,9 +1,0 @@
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.deps.json
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.dll
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\bin\Debug\netstandard2.0\InMemory.Dal.pdb
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.csprojAssemblyReference.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.AssemblyInfoInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.AssemblyInfo.cs
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.csproj.CoreCompileInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.dll
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod02\DemoFiles\InMemory\Starter\InMemory.Dal\obj\Debug\netstandard2.0\InMemory.Dal.pdb

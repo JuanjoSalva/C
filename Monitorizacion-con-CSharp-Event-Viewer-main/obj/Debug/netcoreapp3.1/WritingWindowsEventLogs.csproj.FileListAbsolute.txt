@@ -1,0 +1,32 @@
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.exe
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.deps.json
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.runtimeconfig.json
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.runtimeconfig.dev.json
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.dll
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.pdb
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.csprojAssemblyReference.cache
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.AssemblyInfoInputs.cache
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.AssemblyInfo.cs
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.csproj.CopyComplete
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.dll
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.pdb
+D:\BMV\20483C\Mod 1-4\01CreatingMethodHandlingExceptionMonitoring\WritingWindowsEventLogs\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.genruntimeconfig.cache
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.exe
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.deps.json
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.runtimeconfig.json
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.dll
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\WritingWindowsEventLogs.pdb
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.csproj.CopyComplete
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.dll
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.pdb
+E:\JUANJO\CURSO2020\Monitorizacion-con-CSharp-Event-Viewer-main\obj\Debug\netcoreapp3.1\WritingWindowsEventLogs.genruntimeconfig.cache

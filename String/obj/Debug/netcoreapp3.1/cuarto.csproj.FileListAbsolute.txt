@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\bin\Debug\netcoreapp3.1\cuarto.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\bin\Debug\netcoreapp3.1\cuarto.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\bin\Debug\netcoreapp3.1\cuarto.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\bin\Debug\netcoreapp3.1\cuarto.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\bin\Debug\netcoreapp3.1\cuarto.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\bin\Debug\netcoreapp3.1\cuarto.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\cuarto\obj\Debug\netcoreapp3.1\cuarto.genruntimeconfig.cache

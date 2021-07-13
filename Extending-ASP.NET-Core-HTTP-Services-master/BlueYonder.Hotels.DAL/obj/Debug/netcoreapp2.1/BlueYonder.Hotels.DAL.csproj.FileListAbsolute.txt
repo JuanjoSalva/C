@@ -1,9 +1,0 @@
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.deps.json
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.dll
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\bin\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.pdb
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.csprojAssemblyReference.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.AssemblyInfoInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.AssemblyInfo.cs
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.csproj.CoreCompileInputs.cache
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.dll
-E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\BlueYonder.Hotels\BlueYonder.Hotels.DAL\obj\Debug\netcoreapp2.1\BlueYonder.Hotels.DAL.pdb

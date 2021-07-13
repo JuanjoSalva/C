@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEw/DYpyY4pZuKGPs7RjEeLpykrirl/Cd+19jHQUZSWcsoJBuBZsNv+gvFZ9gUkr2Coo9gNKs/pclc6Oc+FAtQ==",
+  "success": true,
+  "projectFilePath": "E:\\JUANJO\\CURSO2020\\Monitorizacion-con-CSharp-Event-Viewer-main\\WritingWindowsEventLogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

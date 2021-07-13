@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\bin\Debug\netcoreapp3.1\opera_matices.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\bin\Debug\netcoreapp3.1\opera_matices.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\bin\Debug\netcoreapp3.1\opera_matices.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\bin\Debug\netcoreapp3.1\opera_matices.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\bin\Debug\netcoreapp3.1\opera_matices.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\bin\Debug\netcoreapp3.1\opera_matices.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\MOD1\opera_matices\obj\Debug\netcoreapp3.1\opera_matices.genruntimeconfig.cache
