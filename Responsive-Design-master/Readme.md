@@ -8,19 +8,19 @@ Hacemos un grid responsive. POdemos cambiar de tamaño y sigue con la misma estr
 
 **index**
 
-![index](index.PNG)
+![index](img/index.PNG)
 
 
 
 **lo hacemos pequeño**
 
-![pequeño](pequeño.PNG)
+![pequeño](img/pequeño.PNG)
 
 
 
 **lo hacemos más pequeño**
 
-![pequeño1](pequeño1.PNG)
+![pequeño1](img/pequeño1.PNG)
 
 
 En esta demostración, aprenderá a usar el sistema de cuadrícula Bootstrap en una aplicación web ASP.NET Core

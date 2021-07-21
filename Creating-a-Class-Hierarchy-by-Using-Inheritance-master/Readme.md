@@ -15,29 +15,29 @@
 
 1. In **Solution Explorer**, double-click **Beverage.cs** and review the contents of the class.
 
-   ![image-20201016101552875](image-20201016101552875.png)
+   ![image-20201016101552875](img/image-20201016101552875.png)
 
 2. Note that the **Beverage** class contains a default constructor and an alternative constructor.
 
-   ![image-20201016101515307](image-20201016101515307.png)
+   ![image-20201016101515307](img/image-20201016101515307.png)
 
 3. In **Solution Explorer**, double-click **Coffee.cs** and review the contents of the class.
 
-   ![image-20201016101608901](image-20201016101608901.png)
+   ![image-20201016101608901](img/image-20201016101608901.png)
 
 4. Note that the **Coffee** class inherits from the **Beverage** class.
 
-   ![image-20201016101653884](image-20201016101653884.png)
+   ![image-20201016101653884](img/image-20201016101653884.png)
 
 5. Note that the **Coffee** class contains a default constructor and an alternative constructor.
 
-   ![image-20201016101713868](image-20201016101713868.png)
+   ![image-20201016101713868](img/image-20201016101713868.png)
 
 6. Note that the alternative constructor explicitly calls the alternative constructor in the base class.
 
 7. In **Solution Explorer**, double-click **Program.cs** and review the contents of the class.
 
-   ![image-20201016101933773](image-20201016101933773.png)
+   ![image-20201016101933773](img/image-20201016101933773.png)
 
 8. Note that the **Program** class creates two instances of the **Coffee** type: one by using the default constructor, and one by using the alternative constructor.
 
@@ -45,19 +45,19 @@
 
 9. On the **Build** menu, click **Rebuild Solution**.
 
-   ![image-20201016101957768](image-20201016101957768.png)
+   ![image-20201016101957768](img/image-20201016101957768.png)
 
 10. Press F11 twice so that the first line of executable code in the **Program** class is highlighted.
 
-    ![image-20201016102259429](image-20201016102259429.png)
+    ![image-20201016102259429](img/image-20201016102259429.png)
 
 11. Press F11. Note that the debugger steps into the default constructor for the **Coffee** class.
 
-    ![image-20201016102330888](image-20201016102330888.png)
+    ![image-20201016102330888](img/image-20201016102330888.png)
 
 12. Press F11. Note that the debugger steps into the default constructor for the **Beverage** class.
 
-    ![image-20201016102350104](image-20201016102350104.png)
+    ![image-20201016102350104](img/image-20201016102350104.png)
 
 13. Point out that derived class constructors implicitly call the default base class constructor unless you specify an alternative base class constructor.
 
@@ -67,7 +67,7 @@
 
     >**Note:** If  **Microsoft Visual Studio** windows appears, press **No** and continue with F11.
 
-    ![image-20201016102458714](image-20201016102458714.png)
+    ![image-20201016102458714](img/image-20201016102458714.png)
 
 15. Point out that the base class constructor logic is run before the derived class constructor logic.
 
@@ -75,11 +75,11 @@
 
 16. Press F11 six times, until the debugger returns to the **Program** class.
 
-    ![image-20201016102945375](image-20201016102945375.png)
+    ![image-20201016102945375](img/image-20201016102945375.png)
 
 17. Press F11. The second executable line of code in the **Program** class is highlighted.
 
-    ![image-20201016103016475](image-20201016103016475.png)
+    ![image-20201016103016475](img/image-20201016103016475.png)
 
 18. Press F11. Note that the debugger steps into the alternative constructor for the **Coffee** class.
 
@@ -87,23 +87,23 @@
 
 19. Press F11. Note that the debugger steps into the alternative constructor for the **Beverage** class.
 
-    ![image-20201016103101369](image-20201016103101369.png)
+    ![image-20201016103101369](img/image-20201016103101369.png)
 
 20. Place your mouse over the **Beverage** constructor parameters and point out that the **Coffee** constructor has passed argument values to this constructor.
 
-    ![image-20201016103649714](image-20201016103649714.png)
+    ![image-20201016103649714](img/image-20201016103649714.png)
 
 21. Press F11 six times, until the debugger returns to the alternative constructor for the **Coffee** class.
 
-    ![image-20201016103715558](image-20201016103715558.png)
+    ![image-20201016103715558](img/image-20201016103715558.png)
 
 22. Press F11 six times, until the debugger returns to the **Program** class.
 
-    ![image-20201016103754682](image-20201016103754682.png)
+    ![image-20201016103754682](img/image-20201016103754682.png)
 
 23. Press F5 to run the remainder of the application.
 
-    ![image-20201016103811900](image-20201016103811900.png)
+    ![image-20201016103811900](img/image-20201016103811900.png)
 
 24. When the console window appears, point out that it makes no difference to consumers of the class whether variables were set by the derived class constructor or the base class constructor.
 
