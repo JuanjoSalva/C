@@ -8,19 +8,19 @@ Hacemos un grid responsive. POdemos cambiar de tamaño y sigue con la misma estr
 
 **index**
 
-![index](https://github.com/JuanjoSalva/Responsive-Design/blob/master/GridExample/img/index.PNG)
+![index](index.PNG)
 
 
 
 **lo hacemos pequeño**
 
-![pequeño](https://github.com/JuanjoSalva/Responsive-Design/blob/master/GridExample/img/pequeño.PNG)
+![pequeño](pequeño.PNG)
 
 
 
 **lo hacemos más pequeño**
 
-![pequeño1](https://github.com/JuanjoSalva/Responsive-Design/blob/master/GridExample/img/pequeño1.PNG)
+![pequeño1](pequeño1.PNG)
 
 
 En esta demostración, aprenderá a usar el sistema de cuadrícula Bootstrap en una aplicación web ASP.NET Core
